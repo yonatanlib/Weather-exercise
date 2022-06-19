@@ -1,9 +1,10 @@
 import { makeStyles } from "@mui/styles";
 
-const gridStyles = makeStyles({
+const divStyles = makeStyles({
     root: {
         backgroundColor: "#C2E6FF",
+        height:"60rem"
     }
 });
 
-export default gridStyles
+export default divStyles

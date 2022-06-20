@@ -2,17 +2,17 @@ import { makeStyles } from '@mui/styles';
 
 const cardStyles = makeStyles({
   root: {
-    width: 350,
-    height: 230,
+    width: '21.875rem',
+    height: '14.375rem',
     '& h3': {
-      paddingTop: 15,
-      paddingRight: 20,
+      paddingTop: '0.938rem',
+      paddingRight: '1.25rem',
       fontFamily: 'Assitant',
     },
     '& p': {
-      paddingRight: 30,
-      paddingTop: 5,
-      fontSize: 17,
+      paddingRight: '1.875rem',
+      paddingTop: '0.313rem',
+      fontSize: '1.125rem',
       color: '#8F8F8F',
       fontFamily: "'Assistant', sans-serif",
       fontWeight: 300,
@@ -20,9 +20,9 @@ const cardStyles = makeStyles({
     },
     '& img': {
       position: 'relative',
-      bottom: 80,
+      bottom: '5rem',
       width: '23%',
-      marginLeft: '10px',
+      marginLeft: '0.625rem',
     },
 
   },

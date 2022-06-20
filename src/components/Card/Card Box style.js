@@ -3,7 +3,7 @@ import { makeStyles } from '@mui/styles';
 const boxStyle = makeStyles({
   root: {
     position: 'relative',
-    bottom: 60,
+    bottom: '3.75rem',
     '& h4': {
       display: 'inline-block',
       margin: '0px 5px',

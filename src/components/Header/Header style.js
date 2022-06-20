@@ -7,9 +7,9 @@ const headerStyle = makeStyles({
     textAlign: 'right',
     '& h4': {
       position: 'relative',
-      top: 29,
-      right: 80,
-      fontSize: 32,
+      top: '1.813rem',
+      right: '5rem',
+      fontSize: '2rem',
 
     },
   },

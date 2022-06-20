@@ -1,10 +1,10 @@
-import { makeStyles } from "@mui/styles";
+import { makeStyles } from '@mui/styles';
 
 const divStyles = makeStyles({
-    root: {
-        backgroundColor: "#C2E6FF",
-        height:"60rem"
-    }
+  root: {
+    backgroundColor: '#C2E6FF',
+    height: '52rem',
+  },
 });
 
-export default divStyles
+export default divStyles;
